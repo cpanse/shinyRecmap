@@ -7,9 +7,9 @@ Authors@R: person("Christian", "Panse",
 		role = c("aut", "cre"),
 		comment = c(ORCID = "0000-0003-1975-3064"))
 Maintainer: Christian Panse <Christian.Panse@gmail.com>
-Description: Description: Implements a Shiny module for the
-    'recmap' package (<doi:10.18637/jss.v086.c01>), using
-    U.S. Census data as input.
+Description: Implements a Shiny module for the 'recmap'
+    package (<doi:10.18637/jss.v086.c01>), using U.S. 
+    Census data as input.
 License: GPL-3
 Depends: R (>= 4.4), recmap (>= 1.0), shiny, tidycensus
 Suggests: doParallel, knitr, rmarkdown, testthat
