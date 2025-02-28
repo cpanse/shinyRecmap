@@ -1,6 +1,6 @@
-Package: recmapShiny
+Package: shinyRecmap
 Type: Package
-Title: Compute a Shiny Rectangular Statistical Cartogram 
+Title: Draw Shiny Rectangular Statistical Cartograms
 Version: 0.0.1
 Authors@R: person("Christian", "Panse", 
 		email = "Christian.Panse@gmail.com", 
